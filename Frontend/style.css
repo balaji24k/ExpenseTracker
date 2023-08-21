@@ -1,0 +1,56 @@
+#box {
+    background-color: rgb(229, 209, 158);
+    width: 500px;
+    padding: 20px;
+    display: block;
+    margin: 150px auto;
+    border-radius: 20px;
+}
+
+
+label {
+    font-weight: bold;
+}
+
+.input {
+    width: 100%;
+    margin-bottom: 10px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+#btn {
+    background: blue;
+    color: white;
+    border-radius: 5px;
+    padding: 5px 10px;
+    transition: background-color 0.5s;
+    border: none;
+}
+
+.btn:hover {
+    background: red;
+}
+
+ul {
+    background: purple;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+li {
+    border-radius: 5px;
+    list-style: none;
+    background: yellow;
+    font-weight: bold;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+
+button {
+   background: red; 
+   color: white;
+   border-radius: 5px;
+   border: none;
+   padding: 2px 8px;
+}
